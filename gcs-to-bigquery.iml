@@ -13,6 +13,37 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sbt: args4j:args4j:2.33:jar" level="project" />
+    <orderEntry type="library" name="sbt: pl.edu.icm:JLargeArrays:1.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.xerial.snappy:snappy-java:1.1.7.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:machinist_2.12:0.6.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:jawn-parser_2.12:0.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-macros_2.12:1.5.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-kernel_2.12:1.5.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-core_2.12:1.5.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.spire-math:spire_2.12:0.13.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.spire-math:spire-macros_2.12:0.13.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4s:slf4s-api_2.12:1.7.25:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalanlp:breeze_2.12:1.0-RC2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalanlp:breeze-macros_2.12:1.0-RC2:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.sourceforge.f2j:arpack_combined_all:0.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.sf.opencsv:opencsv:2.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.pishen:annoy4s_2.12:0.8.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.java.dev.jna:jna:4.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-parser_2.12:0.11.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-numbers_2.12:0.11.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-jawn_2.12:0.11.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-generic_2.12:0.11.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-core_2.12:0.11.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: info.debatty:java-string-similarity:0.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: info.debatty:java-lsh:0.11:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.spotify.sparkey:sparkey:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.spotify:scio-extra_2.12:0.7.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.spotify:scio-avro_2.12:0.7.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.spotify:annoy:0.2.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.wendykierp:JTransforms:3.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.pathikrit:better-files_2.12:3.6.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.fommil.netlib:core:1.1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.util:java-merge-sort:1.0.1:jar" level="project" />
     <orderEntry type="library" name="sbt: joda-time:joda-time:2.10.1:jar" level="project" />
     <orderEntry type="library" name="sbt: com.spotify:scio-bigquery_2.12:0.7.4:jar" level="project" />
     <orderEntry type="library" name="sbt: com.chuusai:shapeless_2.12:2.3.3:jar" level="project" />
@@ -182,8 +213,6 @@
     <orderEntry type="library" name="sbt: org.threeten:threetenbp:1.3.3:jar" level="project" />
     <orderEntry type="library" name="sbt: org.tukaani:xz:1.8:jar" level="project" />
     <orderEntry type="library" name="sbt: org.typelevel:algebra_2.12:0.7.0:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.typelevel:cats-kernel_2.12:0.9.0:jar" level="project" />
     <orderEntry type="library" name="sbt: org.typelevel:macro-compat_2.12:1.1.1:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.xerial.snappy:snappy-java:1.1.4:jar" level="project" />
   </component>
 </module>
