@@ -33,6 +33,7 @@ lazy val root: Project = project
     description := "gcs-to-bigquery",
     publish / skip := true,
     libraryDependencies ++= Seq(
+      "com.spotify" %% "scio-bigquery" % scioVersion,
       "com.spotify" %% "scio-core" % scioVersion,
       "com.spotify" %% "scio-test" % scioVersion % Test,
       "org.apache.beam" % "beam-runners-direct-java" % beamVersion,
